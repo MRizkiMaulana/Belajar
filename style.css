@@ -1,0 +1,18 @@
+h1 {color: rgb(0, 242, 222);
+	font-size: 50px;
+	font-family: arial;
+	text-align: center;
+	font-weight: bold;
+	text-transform: lowercase;
+	font-variant: small-caps;}
+p {font-family: arial;
+	text-indent: 50px;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: justify;
+	letter-spacing: 5px;
+	text-transform: none;}
+
+#tebal{
+	font-weight: bold;
+}
